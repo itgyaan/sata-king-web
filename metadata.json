@@ -1,0 +1,6 @@
+{
+  "name": "Satta King Info & Live Results Portal",
+  "description": "Live super fast results, daily record charts, time table, leak guessing information, and one-click export for shared hosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
